@@ -1,5 +1,8 @@
 # cloudverse-web-service-backend
 
+## Cloudverse Frontend Code: https://github.com/themihir/cloudverse-web-service-frontend
+## Cloudverse Service Code: https://github.com/themihir/cloudverse-workstation-service
+
 ### URL : https://gwkxtyxjfc.execute-api.ca-central-1.amazonaws.com/dev/
 ## API Description
 
